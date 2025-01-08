@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: [Your current learning focus]
-- 👯 I’m looking to collaborate on: [Projects or technologies you're interested in]
-- 🤔 I’m looking for help with: [Any particular issues or topics]
-- 💬 Ask me about: [Your expertise or interests]
-- 📫 How to reach me: [Your contact information]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 🌱 I’m currently learning: Python
+- 👯 I’m looking to collaborate on: Next js , React , Supabase
+- 🤔 I’m looking for help with: Building Web apps
+- 📫 How to reach me: Look for my website below
+- 😄 Pronouns: Mahdouch
 
 ## 🛠️ Technologies & Tools
 
